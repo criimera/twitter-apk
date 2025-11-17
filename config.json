@@ -1,0 +1,6 @@
+{
+    "destinationResolveDelay": 1000,
+    "commentdelay": 7500,
+    "playingGames": ["Idling", 440, 730],
+    "afkMessage": "Hi, I'm idling."
+}
